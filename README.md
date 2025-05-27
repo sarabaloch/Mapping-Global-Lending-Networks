@@ -49,8 +49,9 @@
 │       ├── mappp.jpeg                      # Geographic network plot  
 │       ├── [in/out]_degree.gephi           # Gephi files for centrality visualizations  
 │       └── updated.gephi                   # Final annotated network  
-│  
-└── Final_Paper.pdf  # Full paper (methodology, results, references)  
+│
+├── Final_Poster.pdf                        # Contains a good summary of findings
+└── Final_Paper.pdf                         # Full paper (methodology, results, references)  
 ```
 
 For details, see the full paper: [Final_Paper.pdf](Final_Paper.pdf).  
